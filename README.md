@@ -1,21 +1,11 @@
+<img align="center" width="740" height="280" src="https://user-images.githubusercontent.com/47260167/101564236-89421e00-39a9-11eb-96c9-fc9fba2bb81f.jpg">
+
+### Fascinated by innovation and technology, currently focused on backend development.
 
 
-<!--
-### Hi there 👋
-**leonardoavanzi/leonardoavanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoavanzi&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![best champ](https://github.com/leonardoavanzi/leonardoavanzi/blob/main/zedbanner.jpg)
-#### 18y beginner programmer and bug hunter 🐍
-
-
-Currently learning:
-- 🐍 Python(Tweepy/API twitter)
-- 🐘 PostgreSQL
-- ☕ Java Web
-
-Extra/Hobby
-- 🏳️ Capture the Flag (22 / 26 points to next invitation) (https://www.hacker101.com/)
-
-
-
-
+#### Favorite technologies:
+- 🐍 Python
+- 🔔 JavaScript
+- 💡 PHP

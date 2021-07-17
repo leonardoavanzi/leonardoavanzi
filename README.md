@@ -6,6 +6,5 @@
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoavanzi&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
 #### Favorite technologies:
-- 🐍 Python
-- 🔔 JavaScript
-- 💡 PHP
+- 🟣 Elixir
+- 🔵 TypeScript

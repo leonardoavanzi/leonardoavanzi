@@ -1,4 +1,3 @@
-<img align="center" width="740" height="280" src="https://user-images.githubusercontent.com/47260167/101564236-89421e00-39a9-11eb-96c9-fc9fba2bb81f.jpg">
 
 ### Fascinated by innovation and technology, currently focused on backend development.
 
